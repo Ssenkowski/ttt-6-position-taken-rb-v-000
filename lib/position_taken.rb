@@ -2,6 +2,6 @@
 def position_taken(board, index)
   if array[index_number] == `" "`
   elsif array[index_number] == `""`
-    
+  else nil
   end
 end
